@@ -1,4 +1,5 @@
 import 'package:arefapp/Screens/onboarding.dart';
+import 'package:arefapp/Screens/profilePage/my_account_screen.dart';
 import 'package:flutter/material.dart';
 
 void main() {

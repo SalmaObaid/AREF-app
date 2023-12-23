@@ -36,6 +36,8 @@ dependencies:
   # Use with the CupertinoIcons class for iOS style icons.
   cupertino_icons: ^1.0.2
   smooth_page_indicator: ^1.0.0
+  cached_network_image: ^3.3.0
+  flutter_svg: ^2.0.9
 
 dev_dependencies:
   flutter_test:
@@ -70,6 +72,13 @@ flutter:
     - family: blod
       fonts:
         - asset: fonts/Alexandria-300.ttf
-      
-
-        
+    - family: Alexandria
+      fonts: 
+        - asset: fonts/AlexandriaBold.ttf
+          weight: 700
+        - asset: fonts/AlexandriaBlack.ttf
+          weight: 900
+        - asset: fonts/AlexandriaSemiBold.ttf
+          weight: 600
+        - asset: fonts/AlexandriaMedium.ttf
+          weight: 500
