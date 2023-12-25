@@ -25,7 +25,7 @@ class ChallengesList extends StatelessWidget {
                     // Add action for the first button
                   },
                   child: Image.network(
-                    'https://b.top4top.io/p_2914jx1xd1.png', // Replace with your image URL
+                    'https://b.top4top.io/p_2914jx1xd1.png',
                     width: 250.0,
                     height: 250.0,
                     //fit: BoxFit.cover,
@@ -37,7 +37,7 @@ class ChallengesList extends StatelessWidget {
                     // Add action for the second button
                   },
                   child: Image.network(
-                    'https://c.top4top.io/p_2914y98qn2.png', // Replace with your image URL
+                    'https://c.top4top.io/p_2914y98qn2.png', 
                     width: 250.0,
                     height: 250.0,
                   ),
@@ -45,10 +45,10 @@ class ChallengesList extends StatelessWidget {
                 SizedBox(height: 10.0),
                 GestureDetector(
                   onTap: () {
-                    // Add action for the third button
+                    
                   },
                   child: Image.network(
-                    'https://d.top4top.io/p_2914rd8fh3.png', // Replace with your image URL
+                    'https://d.top4top.io/p_2914rd8fh3.png', 
                     width: 250.0,
                     height: 250.0,
                   ),
