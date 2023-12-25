@@ -23,7 +23,7 @@ class MyHomePage extends StatelessWidget {
         actions: [
           Padding(
             padding: const EdgeInsets.only(
-              top: 20.0, // Adjust this value to move it lower
+              top: 20.0, 
               left: 8.0,
               right: 8.0,
               bottom: 8.0,
@@ -34,11 +34,11 @@ class MyHomePage extends StatelessWidget {
                   'سلمى عبيد',
                   style: TextStyle(
                     fontFamily:
-                        'Alexandria', // Replace with your desired font family
-                    fontSize: 16.0, // Replace with your desired font size
+                        'Alexandria', 
+                    fontSize: 16.0, 
                     fontWeight: FontWeight
-                        .bold, // Replace with your desired font weight
-                    color: Colors.black, // Replace with your desired text color
+                        .bold, 
+                    color: Colors.black, 
                   ),
                 ),
                 SizedBox(width: 8),
@@ -76,11 +76,11 @@ class MyHomePage extends StatelessWidget {
                   'ترتيب المتنافسين',
                   style: TextStyle(
                     fontFamily:
-                        'Alexandria', // Replace with your desired font family
-                    fontSize: 20.0, // Replace with your desired font size
+                        'Alexandria', 
+                    fontSize: 20.0, 
                     fontWeight: FontWeight
-                        .bold, // Replace with your desired font weight
-                    color: Colors.black, // Replace with your desired text color
+                        .bold, 
+                    color: Colors.black, 
                   ),
                 ),
                 SizedBox(width: 8),
@@ -102,11 +102,11 @@ class MyHomePage extends StatelessWidget {
                   'أكمل حيث توقفت',
                   style: TextStyle(
                     fontFamily:
-                        'Alexandria', // Replace with your desired font family
-                    fontSize: 20.0, // Replace with your desired font size
+                        'Alexandria', 
+                    fontSize: 20.0, 
                     fontWeight: FontWeight
-                        .bold, // Replace with your desired font weight
-                    color: Colors.black, // Replace with your desired text color
+                        .bold, 
+                    color: Colors.black, 
                   ),
                 ),
                 SizedBox(width: 8),
@@ -133,11 +133,11 @@ class MyHomePage extends StatelessWidget {
                   'قائمة المفضلات',
                   style: TextStyle(
                     fontFamily:
-                        'Alexandria', // Replace with your desired font family
-                    fontSize: 20.0, // Replace with your desired font size
+                        'Alexandria', 
+                    fontSize: 20.0, 
                     fontWeight: FontWeight
-                        .bold, // Replace with your desired font weight
-                    color: Colors.black, // Replace with your desired text color
+                        .bold, 
+                    color: Colors.black, 
                   ),
                 ),
                 SizedBox(width: 8),
