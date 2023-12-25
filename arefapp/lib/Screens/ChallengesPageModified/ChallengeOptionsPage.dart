@@ -10,8 +10,8 @@ class ChallengeOptionsPage extends StatelessWidget {
 
   @override
   Widget build(BuildContext context) {
-    double fem = 1.0; // You can adjust this value as needed.
-    double ffem = 1.0; // You can adjust this value as needed.
+    double fem = 1.0; 
+    double ffem = 1.0; 
 
     return MaterialApp(
       title: 'التحديات',
