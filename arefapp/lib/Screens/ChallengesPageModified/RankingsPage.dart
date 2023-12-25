@@ -43,7 +43,7 @@ class MyHomePage extends StatelessWidget {
                 ),
                 SizedBox(width: 8),
                 CircleAvatar(
-                  // Placeholder for user image
+                  
                   backgroundImage:
                       NetworkImage('https://b.top4top.io/p_2915b41291.png'),
                 ),
@@ -118,8 +118,8 @@ class MyHomePage extends StatelessWidget {
               mainAxisAlignment: MainAxisAlignment.center,
               children: [
                 Container(
-                  width: 200, // Set your desired width
-                  height: 100, // Set your desired height
+                  width: 200, 
+                  height: 100, 
                   child: Image.network('https://b.top4top.io/p_2915sfzyb1.png'),
                 ),
                 SizedBox(width: 10),
