@@ -22,7 +22,7 @@ class ChallengesList extends StatelessWidget {
               children: [
                 GestureDetector(
                   onTap: () {
-                    // Add action for the first button
+                    
                   },
                   child: Image.network(
                     'https://b.top4top.io/p_2914jx1xd1.png',
@@ -34,7 +34,7 @@ class ChallengesList extends StatelessWidget {
                 SizedBox(height: 20.0),
                 GestureDetector(
                   onTap: () {
-                    // Add action for the second button
+                    
                   },
                   child: Image.network(
                     'https://c.top4top.io/p_2914y98qn2.png', 
