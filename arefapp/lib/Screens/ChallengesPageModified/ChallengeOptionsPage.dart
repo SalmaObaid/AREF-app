@@ -81,7 +81,7 @@ class ChallengeOptionsPage extends StatelessWidget {
                       width: 50 * fem,
                       height: 50 * fem,
                       child: Image.network(
-                        'https://hotemoji.com/images/emoji/u/n31bt11w5zesu.png', // Replace with actual image URL
+                        'https://hotemoji.com/images/emoji/u/n31bt11w5zesu.png', 
                         fit: BoxFit.cover,
                       ),
                     ),
