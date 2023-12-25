@@ -2,19 +2,19 @@ import 'dart:ui';
 import 'package:flutter/material.dart';
 
 class CoursesPage extends StatelessWidget {
-  final double fem = 1.0; // Set the appropriate value for fem
-  final double ffem = 1.0; // Set the appropriate value for ffem
+  final double fem = 1.0; 
+  final double ffem = 1.0; 
 
   @override
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
-        title: Text('المواد'), // Replace with your app bar title
+        title: Text('المواد'), 
       ),
       body: SingleChildScrollView(
         child: Container(
           width: double.infinity,
-          height: 1109, // Adjusted height to account for content
+          height: 1109, 
           decoration: BoxDecoration(
             color: Color(0xffffffff),
           ),
@@ -40,7 +40,7 @@ class CoursesPage extends StatelessWidget {
       top: top,
       child: GestureDetector(
         onTap: () {
-          // Add action for tapping this course
+         
           print('$title course tapped');
         },
         child: Container(
