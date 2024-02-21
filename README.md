@@ -17,7 +17,8 @@ to install Aref:
  
  Note: For Android phones only 
  
-# ⚠️ important note
+# ⚠️ Important note
 Final modifications of the application done on the following repository :
 
 https://github.com/SalmaObaid/AREFapp-test
+
